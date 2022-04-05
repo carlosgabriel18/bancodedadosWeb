@@ -8,5 +8,10 @@
 </head>
 <body>
     <h1>Banco de dados para web</h1>
+    
+   <?php
+    echo "ola mundo";
+    ?>
+    
 </body>
 </html>
